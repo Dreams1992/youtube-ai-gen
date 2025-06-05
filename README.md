@@ -1,2 +1,1 @@
-# youtube-ai-gen
-A fully AI-driven YouTube channel project inspired by anthroposophy, mindfulness and simplicity.
+# YouTube AI Gen\n\nVolledig geautomatiseerde video- en reelproductie met AI: scripts, stemmen, beelden en eindmontage – volledig handsfree.\n
